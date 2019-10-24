@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24232499783",
+    "firebase_url": "https://realtimeguestlist-50537.firebaseio.com",
+    "project_id": "realtimeguestlist-50537",
+    "storage_bucket": "realtimeguestlist-50537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24232499783:android:bc6b4b7b21d1f312c5ef62",
+        "android_client_info": {
+          "package_name": "com.example.realtimeguestlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24232499783-9p8mo8p0tluh96j7gurdkvu9emecqadb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimeguestlist",
+            "certificate_hash": "13dfcbbf3abcc07bb4946ca300975ad6d5366012"
+          }
+        },
+        {
+          "client_id": "24232499783-76fvo89r32s101a9555tb6pud0hm2uvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-yI9lIP6PIi6ZS8uoUInsxV26M7S7q0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24232499783-76fvo89r32s101a9555tb6pud0hm2uvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
